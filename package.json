@@ -1,0 +1,23 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lax1879apple/Cypress_project.git"
+  },
+  "author": "laxman chamlagai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lax1879apple/Cypress_project/issues"
+  },
+  "homepage": "https://github.com/Lax1879apple/Cypress_project#readme",
+  "dependencies": {
+    "cypress": "^12.17.3",
+    "save": "^2.9.0"
+  }
+}
